@@ -23,7 +23,7 @@ end
 
 speak_to_grandma("I LOVE YOU GRANDMA!")
 speak_to_grandma("Hi!")
-speak_to_grndma("Hi Nana, how are you?")
+speak_to_grandma("Hi Nana, how are you?")
 
 
 
